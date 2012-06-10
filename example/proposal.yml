@@ -1,0 +1,32 @@
+---
+presenters:
+  - name:
+      en: My Name # required
+      ja: # optional
+    github: githubaccount # required
+    affiliation:
+      en: My Affiliation # required
+      ja: # optional
+    bio:
+      en: My bio # required
+      ja: # optional
+title:
+  en: |- # required
+    My Talk Title
+  ja: # optional
+abstract: # write in markdown
+  en: |- # required
+    My Talk Abstract
+  ja: # optional
+language: Japanese # required
+references: # optional
+  en: |- # write in markdown
+    - [My website](http://www.example.org)
+    - [My twitter](https://twitter.com/#!/twitter_handle)
+    - [Past talk slides](https://www.example.org)
+    - [Past talk video](http://www.example.org)
+  ja: |- # write in markdown
+    - [My website](http://www.example.org)
+    - [My twitter](https://twitter.com/#!/twitter_handle)
+    - [Past talk slides](https://www.example.org)
+    - [Past talk video](http://www.example.org)

@@ -10,7 +10,7 @@ Please refer to the instructions below, and send us a pull request if you want t
 
 * Every talk is exactly 5 minute long.
 * Lightning talks will be held on Saturday, September 15.
-* Lightning talk speakers need to [buy a ticket for Sapporo RubyKaigi 2012][ticket] unlike full-presentation speakers. We will manage accepted lightning speakers to get their tickets even if tickets will be sold out.
+* Lightning talk speakers need to [buy a ticket for Sapporo RubyKaigi 2012][ticket], unlike full-presentation speakers. Even if normal tickets are sold out, accepted lightning talk speakers will be able to purchase tickets.
 * Write lightning talks proposals as a [YAML][yaml] document. Please check if the file is valid before submitting. ```ruby -ryaml -rpp -e "pp YAML.load_file('proposal.yml')"``` will help you (and us).
 
 For the comment in the pull request, write whatever you would like.

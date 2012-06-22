@@ -3,7 +3,7 @@ presenters:
   - name:
       en: My Name # required
       ja: # optional
-    github: githubaccount # required
+    github: Your github account # required
     affiliation:
       en: My Affiliation # required
       ja: # optional

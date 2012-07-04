@@ -49,5 +49,5 @@ pull request へのコメントもご自由に行ってください。
   [sprk2012]: http://sapporo.rubykaigi.org/2012
   [euruko2012]: https://github.com/euruko2012/call-for-proposals
   [sprk2012cfp]: https://github.com/sprk2012/sprk2012-cfp
-  [ticket]: http://example.com/ # TODO
+  [ticket]: http://sapporo-rubykaigi.doorkeeper.jp/events/1441
   [yaml]: http://yaml.org/

@@ -10,7 +10,7 @@ Please refer to the instructions below, and send us a pull request if you want t
 
 * Every talk is exactly 5 minute long.
 * Lightning talks will be held on Saturday, September 15.
-* Lightning talk speakers need to [buy a ticket for Sapporo RubyKaigi 2012][ticket], unlike full-presentation speakers. Even if normal tickets are sold out, accepted lightning talk speakers will be able to purchase tickets.
+* __Lightning talk speakers need to [have a ticket for Sapporo RubyKaigi 2012][ticket], unlike full-presentation speakers. If you don't have a ticket for you, you cannot submit the proposal.__
 * Write lightning talks proposals as a [YAML][yaml] document. Please check if the file is valid before submitting. ```ruby -ryaml -rpp -e "pp YAML.load_file('proposal.yml')"``` will help you (and us).
 
 For the comment in the pull request, write whatever you would like.
@@ -31,7 +31,7 @@ You can add any type of assets to support your proposal inside your folder. When
 
 * 発表時間は5分間です。
 * ライトニングトークは9月15日(土)に実施します。
-* ライトニングトーク発表者は一般発表者と異なり [チケットの購入][ticket] が必要です。発表が採択された場合は、チケットが売り切れた場合でも購入できるよう手配いたします。
+* __ライトニングトーク発表者は一般発表者と異なり [チケットの購入][ticket] が必要です。応募はチケットを入手済みの方に限ります。__
 * ライトニングトークの proposal は [YAML][yaml] ドキュメントとして記述をお願いします。提出前にファイルが valid であることをご確認ください。```ruby -ryaml -rpp -e "pp YAML.load_file('proposal.yml')"``` がお役に立ちます。
 
 発表に応募すると、講演の写真撮影、動画の中継、録画の配信に同意したものと見なします。同意されない方のご応募はご遠慮下さい。

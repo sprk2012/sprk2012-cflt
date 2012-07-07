@@ -1,0 +1,34 @@
+---
+presenters:
+  - name:
+      en: Kentaro Kuribayashi
+      ja: 栗林 健太郎
+    github: kentaro
+    affiliation:
+      en: paperboy&co., Inc
+      ja: paperboy&co., Inc
+    bio:
+      en: |-
+        Ex-worker of Hatena, Inc. and now working for paperboy&co., Inc. as a senior engineer, solving various technical problems and improving working processes. Loves Perl and Emacs. Now wants to be a decent Rubyist.
+      ja: |-
+        はてな → ペパボ。技術基盤エンジニアとして、技術的課題の解決や業務プロセス改善に取り組んでいる。PerlとEmacsが好き。現在るびりすと修行中。
+title:
+  en: How to Write Ruby in Non-Ruby Company
+  ja: 非Rubyな会社で仕事にRubyを持ち込むための5つの方法
+abstract:
+  en: |-
+    Are you complaining about that you can't write Ruby code because your company is adopting any other languages? In my talk, I'll introduce some methods for you to use Ruby to solve your real job.
+  ja: |-
+    「仕事でもRubyでコードを書きたいけど、うちのの会社は◯◯言語だから……」と、日々お嘆きではありませんか？本トークでは、非Rubyな会社にありながら、仕事でRubyを思う存分書けるようにするための各種テクニックを紹介します。
+language: Japanese
+references:
+  en: |-
+    - [My website](http://kentarok.org)
+    - [My twitter](https://twitter.com/#!/kentaro)
+    - [Past talk slides](https://speakerdeck.com/u/kentaro)
+    - [Past talk video](http://yapcasia.org/2011/talk/55.html)
+  ja: |-
+    - [My website](http://kentarok.org)
+    - [My twitter](https://twitter.com/#!/kentaro)
+    - [Past talk slides](https://speakerdeck.com/u/kentaro)
+    - [Past talk video](http://yapcasia.org/2011/talk/55.html)

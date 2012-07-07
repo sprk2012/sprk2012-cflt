@@ -19,7 +19,7 @@ abstract:
   en: |-
     Are you complaining about that you can't write Ruby code because your company is adopting any other languages? In my talk, I'll introduce some methods for you to use Ruby to solve your real job.
   ja: |-
-    「仕事でもRubyでコードを書きたいけど、うちのの会社は◯◯言語だから……」と、日々お嘆きではありませんか？本トークでは、非Rubyな会社にありながら、仕事でRubyを思う存分書けるようにするための各種テクニックを紹介します。
+    「仕事でもRubyでコードを書きたいけど、うちの会社は◯◯言語だから……」と、日々お嘆きではありませんか？本トークでは、非Rubyな会社にありながら、仕事でRubyを思う存分書けるようにするための各種テクニックを紹介します。
 language: Japanese
 references:
   en: |-

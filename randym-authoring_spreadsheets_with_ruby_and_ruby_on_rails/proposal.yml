@@ -1,0 +1,31 @@
+---
+presenters:
+  - name:
+      en: Randy Morgan # required
+      ja: モーガン・ランディ
+    github: randym # required
+    affiliation:
+      en: reallyenglish # required
+      ja: リアル・イングリッシュ・ブロードバンド株式会社
+    bio:
+      en: |-
+        Operations manager by day, open source developer/enthusiast by night. I am the author of Axlsx, a travis-ci contributor and a member of both yokohamarb and asakusarb.
+      ja: # optional
+title:
+  en: |- # required
+    Generating excel data with charts, formatting and more with the axlsx gem
+  ja: # optional
+abstract: # write in markdown
+  en: |- # required
+    This presentation will explain why you should be using axlsx instead of CSV for your client reporting as well as showing some code examples of how it can be done. I'll be introducing [axlsx](https://github.com/randym/axlsx). A new gem that lets Ruby and Ruby on Rails developers generate ECMA-376 standard compliant OOXML (xlsx) documents with charts, images, conditional formatting, custom styles, as well as interoperability with other spreadsheet programs like Numbers, LibraOffice, and Google Spreadsheet.
+  ja: |- # optional
+language: English # required
+references: # optional
+  en: |- # write in markdown
+    - [axlsx blog](http://axlsx.blogspot.jp/)
+    - [twitter](https://twitter.com/#!/morgan_randy)
+    - [Tokyo Rubyist Meetup:Travis-ci Intro](http://www.ustream.tv/recorded/21808058)
+  ja: |- # write in markdown
+    - [axlsx blog](http://axlsx.blogspot.jp/)
+    - [twitter](https://twitter.com/#!/morgan_randy)
+    - [Tokyo Rubyist Meetup:Travis-ci Intro](http://www.ustream.tv/recorded/21808058)

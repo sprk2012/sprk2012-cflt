@@ -1,0 +1,21 @@
+---
+presenters:
+  - name:
+      en: Naoto Takai
+    github: takai
+    affiliation:
+      en: COOKPAD Inc.
+    bio:
+      en: Naoto Takai is senior developer with over 10 year experience in Ruby and Java, who also loves software testing
+          automation.
+title:
+  en: Code Review in Action
+abstract:
+  en: I have been reviewing more than ten pull requests everyday since our company introduced GitHub Enterprise. I want
+      to share my experiences about how to improve internal quality with code reviews and what is the point of it.
+language: Japanese
+references:
+  en: |-
+    - [My website](http://recompile.net)
+    - [My twitter](https://twitter.com/takai)
+

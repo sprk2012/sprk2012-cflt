@@ -6,17 +6,17 @@ presenters:
     affiliation:
       en: Eiwa System Management, Inc. # required
     bio:
-      en: Hibariya is a Rubyist who likes ruby and CUI. # required
+      en: I am an devoper at Eiwa System Managment and a Rubyist who likes CLI. # required
 title:
   en: |- # required
-    Code for oneself
+    Coding for yourself
   ja: |- # optional
     自分のためのコードを書こう
 abstract: # write in markdown
   en: |- # required
-    Introduction of some things (how to make gem, how to contribute to open source products) obtained while coding 'the code for oneself'.
+    I'll be introducing a number of tools developed to facilitate making gems and contributing to open source products. In essence, 'coding for yourself'.
   ja: |- # optional
-    「コミュニティへの Contribution」についてイマイチ分かっていない自分が、「自分自身の目的を達成するためのコードを書く」中で得られたいくつかのこと（gem の作り方や、オープンソースへの contribute）について紹介します。
+    自分のためのコードを書く中で得られたいくつかのこと（gem の作り方や、オープンソースへの contribute）について紹介します。
 language: Japanese # required
 references: # optional
   en: |- # write in markdown

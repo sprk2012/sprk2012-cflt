@@ -1,0 +1,33 @@
+---
+presenters:
+  - name:
+      en: Kazuya NUMATA
+      ja: 沼田 一哉
+    github: kaznum
+    affiliation:
+      en: ESTCOSMO Co., Ltd., LOCAL, Ruby Sapporo
+      ja: 株式会社エストコスモ, 一般社団法人LOCAL, Ruby札幌
+    bio:
+      en: Free Software Developer
+      ja: フリーソフトウェア開発者
+title:
+  en: |-
+    Programming, Ruby, Family and Myself
+  ja: |-
+    プログラミングとRubyと家族と自分
+abstract:
+  en: |-
+    Why are you programming? For what? Programmers have their own reasons to make softwares. I believe that Programming should not be only for work, money and hobby. I would like to talk frankly about producing my own software by myself and my experience of programming which made our life happier directly throught development of an account book web application with Ruby on Rails.
+  ja: |-
+    なぜ、何のためにプログラミングをするのか。ひとそれぞれ理由はたくさんあり、仕事やお金や趣味のためとは限りません。Ruby on Railsによる家計簿ソフトウェアの開発を通して、自分が使うソフトウェアを自分でプロデュースすること、プログラミングがいかに直接的に家族と自分をハッピーにしてくれたかについて、率直に話したいと思います。
+language: Japanese
+references: # optional
+  en: |-
+    - [Sanataro - Simple Web Household Account Book](http://kaznum.github.com/sanataro/)
+    - [My twitter](https://twitter.com/#!/kaznum)
+    - [About me](http://about.me/kaznum/)
+  ja: |-
+    - [家計簿さな太郎](http://kaznum.github.com/sanataro/)
+    - [My twitter](https://twitter.com/#!/kaznum)
+    - [About me](http://about.me/kaznum/)
+

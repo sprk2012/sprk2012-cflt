@@ -1,0 +1,33 @@
+---
+presenters:
+  - name:
+      en: Hibariya # required
+    github: hibariya # required
+    affiliation:
+      en: Eiwa System Management, Inc. # required
+    bio:
+      en: Hibariya is a Rubyist who likes ruby and CUI. # required
+title:
+  en: |- # required
+    Code for oneself
+  ja: |- # optional
+    自分のためのコードを書こう
+abstract: # write in markdown
+  en: |- # required
+    Introduction of some things (how to make gem, how to contribute to open source products) obtained while coding 'the code for oneself'.
+  ja: |- # optional
+    「コミュニティへの Contribution」についてイマイチ分かっていない自分が、「自分自身の目的を達成するためのコードを書く」中で得られたいくつかのこと（gem の作り方や、オープンソースへの contribute）について紹介します。
+language: Japanese # required
+references: # optional
+  en: |- # write in markdown
+    - [My website](http://hibariya.org/)
+    - [My twitter](https://twitter.com/#!/hibariya)
+    - [My github](https://github.com/hibariya)
+    - [My blog](http://hibariya.github.com/)
+    - [Past talk slides](https://speakerdeck.com/u/hibariya)
+  ja: |- # write in markdown
+    - [My website](http://hibariya.org/)
+    - [My twitter](https://twitter.com/#!/hibariya)
+    - [My github](https://github.com/hibariya)
+    - [My blog](http://hibariya.github.com/)
+    - [Past talk slides](https://speakerdeck.com/u/hibariya)

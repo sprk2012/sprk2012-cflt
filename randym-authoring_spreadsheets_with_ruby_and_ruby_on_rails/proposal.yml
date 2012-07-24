@@ -10,12 +10,13 @@ presenters:
     bio:
       en: |-
         Operations manager by day, open source developer/enthusiast by night. I am the author of Axlsx, a travis-ci contributor and a member of both yokohamarb and asakusarb.
-      ja: 日常は運営管理部のマネージャー、夜になるとオープンソースの開発者。axlsxの作成者でありながら、travis-ciにも参加していま。たまにyokahamarbやasakusrbに邪魔してます。# optional
+      ja: |-
+        日常は運営管理部のマネージャー、夜になるとオープンソースの開発者。axlsxの作成者でありながら、travis-ciにも参加していま。たまにyokahamarbやasakusrbに邪魔してます。
 title:
   en: |- # required
     Generating excel data with charts, formatting and more with the axlsx gem
-  ja: 
-    axlsxを使ったExcelでのグラフ・書式・画像などなど# optional
+  ja: |-
+    axlsxを使ったグラフ・書式・画像などを含めたOOXML生成
 abstract:
   en: |-
     This presentation will explain why you should be using axlsx instead of CSV for your client reporting as well as showing some code examples of how it can be done. 

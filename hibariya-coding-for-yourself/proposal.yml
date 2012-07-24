@@ -6,7 +6,7 @@ presenters:
     affiliation:
       en: Eiwa System Management, Inc. # required
     bio:
-      en: I am an devoper at Eiwa System Managment and a Rubyist who likes CLI. # required
+      en: I am an developer at Eiwa System Managment and a Rubyist who likes CLI. # required
 title:
   en: |- # required
     Coding for yourself

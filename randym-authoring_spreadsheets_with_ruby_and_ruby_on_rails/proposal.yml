@@ -10,22 +10,29 @@ presenters:
     bio:
       en: |-
         Operations manager by day, open source developer/enthusiast by night. I am the author of Axlsx, a travis-ci contributor and a member of both yokohamarb and asakusarb.
-      ja: # optional
+      ja: 日常は運営管理部のマネージャー、夜になるとオープンソースの開発者。axlsxの作成者でありながら、travis-ciにも参加していま。たまにyokahamarbやasakusrbに邪魔してます。# optional
 title:
   en: |- # required
     Generating excel data with charts, formatting and more with the axlsx gem
-  ja: # optional
-abstract: # write in markdown
-  en: |- # required
-    This presentation will explain why you should be using axlsx instead of CSV for your client reporting as well as showing some code examples of how it can be done. I'll be introducing [axlsx](https://github.com/randym/axlsx). A new gem that lets Ruby and Ruby on Rails developers generate ECMA-376 standard compliant OOXML (xlsx) documents with charts, images, conditional formatting, custom styles, as well as interoperability with other spreadsheet programs like Numbers, LibraOffice, and Google Spreadsheet.
-  ja: |- # optional
-language: English # required
-references: # optional
-  en: |- # write in markdown
-    - [axlsx blog](http://axlsx.blogspot.jp/)
-    - [twitter](https://twitter.com/#!/morgan_randy)
-    - [Tokyo Rubyist Meetup:Travis-ci Intro](http://www.ustream.tv/recorded/21808058)
+  ja: 
+    axlsxを使ったExcelでのグラフ・書式・画像などなど# optional
+abstract:
+  en: |-
+    This presentation will explain why you should be using axlsx instead of CSV for your client reporting as well as showing some code examples of how it can be done. 
+    I'll be introducing [axlsx](https://github.com/randym/axlsx).
+    It is a new gem that lets Ruby and Ruby on Rails developers generate ECMA-376 standard compliant OOXML (xlsx) documents with charts, images, conditional formatting, custom styles, 
+    as well as interoperability with other spreadsheet programs like Numbers, LibraOffice, and Google Spreadsheet.
+  ja: |-
+    このLTでは、顧客レポートにCSVではなくAxlsxを用いるべき理由を、いくつかのコーディング例と共に説明します。
+    [axlsx](https://github.com/randym/axlsx) は、RubyとRailsを使う開発者向けのECMA-376に準拠したOOXML(xlsx)生成ツールで、
+    グラフや画像・条件付き書式・カスタム書式やスタイルなどをサポートしています。さらに、NumbersやLibreOfficeやGoogle Spreadsheetでも開くすることができます。
+language: English or 日本語
   ja: |- # write in markdown
+    - [Tokyo Rubyist Meetup:Travis-ci Intro](http://www.ustream.tv/recorded/21808058)
     - [axlsx blog](http://axlsx.blogspot.jp/)
     - [twitter](https://twitter.com/#!/morgan_randy)
+  en: |-
     - [Tokyo Rubyist Meetup:Travis-ci Intro](http://www.ustream.tv/recorded/21808058)
+    - [axlsx blog](http://axlsx.blogspot.jp/)
+    - [twitter](https://twitter.com/#!/morgan_randy)
+

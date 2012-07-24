@@ -22,12 +22,10 @@ references: # optional
   en: |- # write in markdown
     - [My website](http://hibariya.org/)
     - [My twitter](https://twitter.com/#!/hibariya)
-    - [My github](https://github.com/hibariya)
     - [My blog](http://hibariya.github.com/)
     - [Past talk slides](https://speakerdeck.com/u/hibariya)
   ja: |- # write in markdown
     - [My website](http://hibariya.org/)
     - [My twitter](https://twitter.com/#!/hibariya)
-    - [My github](https://github.com/hibariya)
     - [My blog](http://hibariya.github.com/)
     - [Past talk slides](https://speakerdeck.com/u/hibariya)

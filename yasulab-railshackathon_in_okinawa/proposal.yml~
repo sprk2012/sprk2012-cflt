@@ -1,0 +1,48 @@
+---
+presenters:
+  - name:
+      en: Yohei YASUKAWA # required
+      ja: 安川　要平 # optional
+    github: https://github.com/yasulab # required
+    affiliation:
+      en: Freelance Developer # required
+      ja: フリーランス # optional
+    bio:
+      en: Founder of Okinawa.rb & CoderDojo Tokyo/Okinawa organizer. # required
+      ja: Founder of Okinawa.rb & CoderDojo Tokyo/Okinawa organizer. # optional
+title:
+  en: |- # required
+    Rails Hackathon in Okinawa
+  ja: Rails Hackathon in Okinawa # optional
+abstract: # write in markdown
+  en: |- # required
+    November 17th and 23-24th, a Rails hackathon will be held in Okinawa,
+    a southern island in Japan. 17th is the day for ideathon in each local
+    community and 23-24th are the days for getting together in Okinawa
+    and show your product each other.
+    
+    The hackathon is hosted by Minami.rb, Okinawa.rb, and Shibuya.rb.
+    And we are planning a beach party after the hackathon!
+    So, come on and join in the hackathon!
+ 
+    [Rails Hackathon in Okinawa](http://railshackathon.net/)
+  ja: |- # optional
+    11月17日と23-24日に、Rails Hackathon in Okinawa を開きます。
+    17日には各コミュニティでアイデアソンを開いてもらい、
+    23-24日は沖縄で集まって、ハッカソンを開きます。
+    2012年7月の時点では、Minami.rb, Okinawa.rb, and Shibuya.rb
+    の３コミュニティから参加表明を頂きました。
+    ハッカソン後にビーチパーティも予定しているので、
+    是非 Rails Hackathon にご参加ください！
+language: Japanese/English (時間的にいけそうなら一人同時通訳します.) # required
+references: # optional
+  en: |- # write in markdown
+    - [My website](http://yasulab.jp/)
+    - [My twitter](https://twitter.com/#!/yasulab)
+    - [Past talk slides](http://yasulab.jp/#b11/feed)
+    - [Past talk video](http://yasulab.jp/#9f1/youtube)
+  ja: |- # write in markdown
+    - [My website](http://yasulab.jp)
+    - [My twitter](https://twitter.com/#!/yasulab)
+    - [Past talk slides](http://yasulab.jp/#b11/feed)
+    - [Past talk video](http://yasulab.jp/#9f1/youtube)

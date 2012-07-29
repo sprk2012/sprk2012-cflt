@@ -16,7 +16,7 @@ title:
 abstract:
   en: |-
     The TOPPERS/ASP kernel is a famous RTOS in Japan, as extended and improved kernel for embedded systems, based on the standard profile of μITRON4.0.
-    We tried to port mruby into TOPPERS/ASP. In TokyuRubyKaigi05, we have talked mruby on TOPPERS on QEMU.  In Sapporo, we will show it on some (real) hardware and talk about more hacks to do it.
+    We have tried to port mruby into TOPPERS/ASP. In TokyuRubyKaigi05, we have talked mruby on TOPPERS on QEMU.  In Sapporo, we will show it on some (real) hardware and talk about more hacks to do it.
   ja: |-
     みんな大好きTOPPERS/ASPで動くmrubyを開発しています。先日行われたTokyuRuby会議05での発表ではエミュレータ(QEMU)での動作でしたが、今回はハードで動かしつつ、詳しい説明を行うつもりです。
 language: Japanese

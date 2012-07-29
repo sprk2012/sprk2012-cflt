@@ -3,7 +3,7 @@ presenters:
   - name:
       en: Masayoshi Takahashi and Yurie Yamane
       ja: 高橋征義・やまねゆりえ
-    github: takahashim / yurie
+    github: [takahashim, yurie]
     affiliation:
       en: Tatsu-zine Publishing Inc.
       ja: 株式会社達人出版会

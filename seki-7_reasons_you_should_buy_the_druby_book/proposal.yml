@@ -1,0 +1,28 @@
+---
+presenters:
+  - name:
+      en: Masatoshi SEKI # required
+    github: seki # required
+    affiliation:
+      en: toRuby # required
+    bio:
+      en: a Ruby committer and an author of several Ruby standard libraries including dRuby, eRuby, and Rinda. He's an expert in object-oriented programming, distributed systems, and eXtreme programming. # required
+title:
+  en: |- # required
+    7 reasons you should buy the dRuby book.
+abstract: # write in markdown
+  en: |- # required
+    I explain why you should buy the dRuby book from three viewpoints. 
+      - for the readers
+      - for the author (me)
+      - for the ruby communities
+language: Japanese # required
+references: # optional
+  en: |- # write in markdown
+    - [My website](http://pragprog.com/book/sidruby/the-druby-book)
+    - [My twitter](https://twitter.com/#!/m_seki)
+    - [Past talk slides](http://www.druby.org/ERBLT.pdf)
+    - [Past talk video](http://vimeo.com/26562213)
+    - [Past talk slides](http://www.druby.org/Drip.pdf)
+    - [Past talk video](http://vimeo.com/26527636)
+

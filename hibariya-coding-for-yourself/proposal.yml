@@ -1,0 +1,31 @@
+---
+presenters:
+  - name:
+      en: Hibariya # required
+    github: hibariya # required
+    affiliation:
+      en: Eiwa System Management, Inc. # required
+    bio:
+      en: I am an developer at Eiwa System Managment and a Rubyist who likes CLI. # required
+title:
+  en: |- # required
+    Coding for yourself
+  ja: |- # optional
+    自分のためのコードを書こう
+abstract: # write in markdown
+  en: |- # required
+    I'll be introducing a number of tools developed to facilitate making gems and contributing to open source products. In essence, 'coding for yourself'.
+  ja: |- # optional
+    自分のためのコードを書く中で得られたいくつかのこと（gem の作り方や、オープンソースへの contribute）について紹介します。
+language: Japanese # required
+references: # optional
+  en: |- # write in markdown
+    - [My website](http://hibariya.org/)
+    - [My twitter](https://twitter.com/#!/hibariya)
+    - [My blog](http://hibariya.github.com/)
+    - [Past talk slides](https://speakerdeck.com/u/hibariya)
+  ja: |- # write in markdown
+    - [My website](http://hibariya.org/)
+    - [My twitter](https://twitter.com/#!/hibariya)
+    - [My blog](http://hibariya.github.com/)
+    - [Past talk slides](https://speakerdeck.com/u/hibariya)

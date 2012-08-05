@@ -1,0 +1,41 @@
+---
+presenters:
+  - name:
+      en: Toshiaki Koshiba
+      ja: こしば としあき
+    github: https://github.com/bash0C7
+    affiliation:
+      en: Tokyo RubyKaigi 10 Executive Committee,  DevLOVE Pub
+      ja: 東京Ruby会議10実行委員会, DevLOVE Pub
+    bio:
+      en: Tokyo RubyKaigi 10 Organizer, Sapporo RubyKaigi 2012 CFP Rejected, RubyConf 2011 CFP Rejected
+      ja: 東京Ruby会議10実行委員長, 札幌Ruby会議2012 CFP落選者, RubyConf2011 CFP落選者
+title:
+  en: |- # required
+    LET'S SUBMIT YOUR PROPOSAL
+  ja: LET'S SUBMIT YOUR PROPOSAL
+abstract: # write in markdown
+  en: |- # required
+    Is it difficult to submit proposal to CFP?
+    Let's challenge it if you participate in conference.
+    I explain a way as an example by submit proposal to CFP of TokyoRubyKaigi10.
+  ja: |- 
+    CFPへの応募は難しいと思っていますか？
+    せっかくカンファレンスに参加するなら、CFPの応募にもチャレンジしてみませんか？
+    東京Ruby会議10のCFPへの応募を例に、チャレンジするコツを説明します。
+language: Japanese
+references: # optional
+  en: |- # write in markdown
+    - [blog](http://d.hatena.ne.jp/bash0C7/)
+    - [web nikki](http://bash0C7.tdiary.net/)
+    - [My twitter](https://twitter.com/#!/twitter_handle)
+    - [Past talk slides(slideshare)](http://www.slideshare.net/bash0C7)
+    - [Past talk slides(speakerdeck)](https://speakerdeck.com/u/bash0c7/)
+    - [Past talk video](http://www.confreaks.com/videos/737-rubyconf2011-lightning-talk-let-s-go-to-shibuya-rubyist-lunch-at-tokyo-japan)
+  ja: |- # write in markdown
+    - [blog](http://d.hatena.ne.jp/bash0C7/)
+    - [web日記](http://bash0C7.tdiary.net/)
+    - [My twitter](https://twitter.com/#!/twitter_handle)
+    - [Past talk slides(slideshare)](http://www.slideshare.net/bash0C7)
+    - [Past talk slides(speakerdeck)](https://speakerdeck.com/u/bash0c7/)
+    - [Past talk video](http://www.confreaks.com/videos/737-rubyconf2011-lightning-talk-let-s-go-to-shibuya-rubyist-lunch-at-tokyo-japan)

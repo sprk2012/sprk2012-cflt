@@ -1,0 +1,36 @@
+---
+presenters:
+  - name:
+      en: Takeshi SHINODA
+      ja: 篠田 健
+    github: https://github.com/takeshinoda
+    affiliation:
+      en: Nihon Unisys, Ltd.
+      ja: 日本ユニシス株式会社
+    bio:
+      en: Infomation System Soldier
+      ja: 情報システムに仕える兵士
+title:
+  en: Introduction of thinreports-rails    
+  ja: thinreports-railsのご紹介
+abstract:
+  en: |-
+    I introduce thinreports-rails for ThinRepors. 
+    ThinRepors is cool PDF generator, and GUI Designer. 
+    However, ThinReports is not  included in Rails DSL. 
+    So, I made Rails templatehandler for ThinReports. 
+  ja: |-
+    ThinReportsのためのthinreports-railsをご紹介します。
+    ThinReporsは素晴らしいPDFのジェネレータであり、GUIデザイナーが付属しています。
+    しかしながら、RailsのためのDSLが含まれておりません。
+    私は、ThinReporsのためにRailsのテンプレートハンドラを作り、
+    簡単にRailsアプリケーションに組み込めるようにしました。
+language: Japanese
+references: 
+  en: |-
+    - [My website](http://d.hatena.ne.jp/takeshinoda/)
+    - [My twitter](https://twitter.com/takeshinoda)
+  ja: |-
+    - [My website](http://d.hatena.ne.jp/takeshinoda/)
+    - [My twitter](https://twitter.com/takeshinoda)
+

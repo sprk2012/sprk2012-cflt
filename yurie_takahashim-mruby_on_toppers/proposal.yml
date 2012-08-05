@@ -1,0 +1,32 @@
+---
+presenters:
+  - name:
+      en: Masayoshi Takahashi and Yurie Yamane
+      ja: 高橋征義・やまねゆりえ
+    github: [takahashim, yurie]
+    affiliation:
+      en: Tatsu-zine Publishing Inc.
+      ja: 株式会社達人出版会
+    bio:
+      en: Takahashi and Yamane are software engineers and we are working together on mruby.
+      ja: 高橋とやまねは二人で協力してmrubyを触っています。
+title:
+  en: mruby on TOPPERS
+  ja: mruby on TOPPERS
+abstract:
+  en: |-
+    The TOPPERS/ASP kernel is a famous RTOS in Japan, as extended and improved kernel for embedded systems, based on the standard profile of μITRON4.0.
+    We have tried to port mruby into TOPPERS/ASP. In TokyuRubyKaigi05, we have talked mruby on TOPPERS on QEMU.  In Sapporo, we will show it on some (real) hardware and talk about more hacks to do it.
+  ja: |-
+    みんな大好きTOPPERS/ASPで動くmrubyを開発しています。先日行われたTokyuRuby会議05での発表ではエミュレータ(QEMU)での動作でしたが、今回はハードで動かしつつ、詳しい説明を行うつもりです。
+language: Japanese
+references:
+  en: |- # write in markdown
+    - [My website](https://github.com/yurie/mruby/tree/lessmemory)
+    - [My twitter](https://twitter.com/takahashim)(https://twitter.com/yuri_at_earth)
+    - [Past talk slides](http://www.slideshare.net/takahashim/mrubyforembeddedsystems)
+  ja: |- # write in markdown
+    - [My website](https://github.com/yurie/mruby/tree/lessmemory)
+    - [My twitter](https://twitter.com/takahashim)(https://twitter.com/yuri_at_earth)
+    - [Past talk slides](http://www.slideshare.net/takahashim/mrubyforembeddedsystems)
+

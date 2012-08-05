@@ -1,0 +1,41 @@
+---
+presenters:
+  - name:
+      en: Kazuhiro NISHIYAMA # required
+      ja: 西山和広 # optional
+    github: znz # required
+    affiliation:
+      en: nadoka developers # required
+      ja: # optional
+    bio:
+      en: one of nadoka developers # required
+      ja: # optional
+title:
+  en: |- # required
+    Best practice of nadoka-san's m17n
+  ja: |- # optional
+    nadoka さんの m17n 対応のベストプラクティス
+abstract: # write in markdown
+  en: |- # required
+    We uses iso-2022-jp in Japanese channels of IRCnet, and it's not ascii compatible.
+    That causes some problems.
+    I'll talk how to resolve such problems and best practice of nadoka-san's m17n.
+  ja: |- # optional
+    IRCnet の日本語チャンネルでは iso-2022-jp が使われていて、
+    iso-2022-jp は ascii compatible ではありません。
+    そのことが様々な問題を引き起こします。
+    その問題をどう解決したのか、
+    nadoka さんでの m17n 対応の最善の方法は何なのか、
+    ということについて話をする予定です。
+language: Japanese # required
+references: # optional
+  en: |- # write in markdown
+    - [My website](http://znz.s1.xrea.com/t/)
+    - [My twitter](https://twitter.com/znz)
+    - [Past talk slides](http://www.slideshare.net/znzjp)
+    - [Past talk video](http://vimeo.com/26539927)
+  ja: |- # write in markdown
+    - [My website](http://znz.s1.xrea.com/t/)
+    - [My twitter](https://twitter.com/znz)
+    - [Past talk slides](http://www.slideshare.net/znzjp)
+    - [Past talk video](http://vimeo.com/26539927)
